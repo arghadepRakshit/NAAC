@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    font-family: Montserrat, Poppins, Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.form-section {
+    margin: 1rem;
+    border: 2px solid black;
+    background-color: #EEEEEE;
+    padding: 1.5rem 1.3rem;
+    border-radius: 10px;
+    color: #31363F;
+}
+.form-section u{
+    text-align: center;
+}
+.form-section h1 {
+    font-size: 1.5rem;
+    margin-bottom:1.5rem ;
+    text-align: center;
+}
+
+.form-section h3 {
+    font-size: 1.2rem;
+    margin:0.5rem 0;
+}
+
+.form-section input[type="text"],
+.form-section textarea {
+    padding: 0.5rem;
+    width: 97%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+}
+
+.form-section textarea{
+    height: 10rem;
+}
+
+
+
+
+.sec-3_1_2 p {
+    font-weight: 800;
+}
+h4 {
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    margin: 20px;
+}
+.submit-button{
+    display: flex;
+    justify-content: center;
+}
+.submit {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+   
+}
+
+.submit:hover {
+    background-color: #0056b3;
+}
+
+.money-table{
+    border-collapse: collapse;
+    overflow: scroll;
+}
+.money-table th,td{
+    border: 2px solid black;
+}
+
+.money-table td input{
+    width: 94%;
+    height: 100%;
+}
+.money-table-div{
+    overflow-x: auto;
+}
+
