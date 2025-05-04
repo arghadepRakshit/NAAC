@@ -73,7 +73,7 @@ Implement full-text search across documents
 Generate auto-formatted NAAC reports
 
 🤝 Contribution
-Built and maintained by [Your Name], serving as a Backend Developer and system architect. Played a key role in:
+Built and maintained by Arghadeep Rakhit, serving as a Backend Developer and system architect. Played a key role in:
 
 Designing the database schema
 
